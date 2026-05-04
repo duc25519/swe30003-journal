@@ -4,7 +4,10 @@
 
 #set document(title: [SWE30003 - Journal], author: "Hoàng Minh Đức")
 #set page(paper: "a4", numbering: "1")
-#set text(font: "TeX Gyre Pagella", size: 14pt)
+#set text(
+//   font: "TeX Gyre Pagella",
+  size: 15pt
+)
 #set heading(numbering: "1.1.")
 #show heading: set block(below: 1.5em)
 #set par(
